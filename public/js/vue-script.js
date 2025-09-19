@@ -15,7 +15,8 @@ const Home = {
                 <li>Se utiliza Bootstrap 5 para el diseño y estilo de la aplicación.</li>
                 <li>El diseño es responsive y se adapta a diferentes tamaños de pantalla.</li>
                 <li>El código está organizado en componentes para facilitar su mantenimiento y escalabilidad.</li>
-                <li>El código fuente está disponible en <a href="https://github.com/tu-repo">GitHub</a>.</li>
+                <li>El código fuente está disponible en <a href="https://github.com/Ndroide/ex-cristian-cespedes-frontend.git">GitHub</a>.</li>
+                <li>Proyecto subido a <a href="https://cristian-cespedes-exfrontend.netlify.app/#/">Netlify/cristian-cespedes</a>.</li>
                 <li>El proyecto está desplegado en hosting propio <a href="https://rakoon.cl/proyectos/ex-cristian-cespedes-frontend/#/">RAKOON.CL</a> para respaldo.</li>
                 <li>Desarrollado por Cristian Céspedes.</li>
                 <li>No se adjunta informe ya que no fue solicitado para la entrega (o al menos no se indicó explicitamente).</li>
