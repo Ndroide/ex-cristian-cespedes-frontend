@@ -1,0 +1,19 @@
+/*------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------*/
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #f8f8f8;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  transition: transform 0.2s;
+  margin: 0 0 1.5rem 0;
+}/*# sourceMappingURL=style.css.map */
